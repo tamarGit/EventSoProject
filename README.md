@@ -1,0 +1,2 @@
+# EventSoProject
+manage events project
